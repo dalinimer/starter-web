@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dali Nimer -- dalinimer@gmail.com
 
 # THANKS
 
